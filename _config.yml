@@ -3,10 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Title
-subtitle: subTitle
-description: a site test...
-keywords:
+# title: Title
+title: AhBaku_Na
+subtitle: sssssssssa
+description: blog.me.test
+keywords: 
 author: swem
 language: chinese
 timezone:
@@ -14,7 +15,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 #url: http://yoursite.com
-url: http://yoursite.com
+url: https://senuren.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
