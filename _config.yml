@@ -85,9 +85,9 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  # repo: git@github.com:senuren/senuren.github.io.git
+  repo: git@github.com:senuren/senuren.github.io.git
   # repo: https://github.com/senuren/senuren.github.io.git
-  repo: https://senuren.github.io/
+  # repo: https://senuren.github.io/
   branch: master
 
 ####L2D
