@@ -4,9 +4,9 @@
 
 # Site
 # title: Title
-title: AhBaku_Na
+title: AhBaku_Na        🌵
 subtitle: sssssssssa
-description: blog.me.test
+description: \HARU/ \HARU/ \HARU/ \\SABAKYU/ \\!!!/
 keywords: 
 author: swem
 language: chinese
@@ -125,8 +125,11 @@ live2d:
   tagMode: false # Whether only to replace live2d tag instead of inject to all pages
   log: false # Whether to show logs in console
   model:
+    # use: live2d-widget-model-haru02
+    # use: live2d-widget-model-haru01
+    # use: live2d-widget-model-haru 
     # use: live2d-widget-model-haru/02
-    # use: live2d-widget-model-haru/01    
+    use: live2d-widget-model-haru/01    
     # use: live2d-widget-model-hibiki
     # use: live2d-widget-model-hijiki
     # use: live2d-widget-model-z16
@@ -135,7 +138,7 @@ live2d:
     # use: live2d-widget-model-miku
     # use: live2d-widget-model-koharu
     # use: live2d-widget-model-izumi
-    use: live2d-widget-model-shizuku
+    # use: live2d-widget-model-shizuku
     # use: live2d-widget-model-wanko # npm-module package name
     # use: wanko # folder name in (hexo base dir)/live2d_models/
     # use: ./wives/wanko # folder path relative to hexo base dir
